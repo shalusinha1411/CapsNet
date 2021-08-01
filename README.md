@@ -3,7 +3,8 @@
 [![Generic badge](https://img.shields.io/badge/DEEP-LEARNING-<BLUE>.svg)](https://shields.io/)
 
 A Tensorflow implementation of Capsule Networks based on Geoffrey Hinton's paper [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829). 
-![CapsNet and CNNs](/CapsNet/images/CapsNetVsCNNs.jpg)
+
+![CapsNet and CNNs](https://github.com/shalusinha1411/CapsNet/blob/main/images/CapsNetVsCNNs.jpeg)
 
 ## Requirements
 ![](https://img.shields.io/badge/Language-PYTHON-orange.svg)
